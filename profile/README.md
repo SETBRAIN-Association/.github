@@ -9,4 +9,4 @@
 
 ***
 
-Set Brain is a french non-profits organisation (law 1901), she have for goal to create user-friendly and revolutionary softwares, in different domains like live streaming, education and many others in the future. We reverse one part of beneficts to charity.
+Set Brain is a french non-profits organization (law 1901), she have for goal to create user-friendly and revolutionary softwares, in different domains like live streaming, education and many others in the future. We reverse one part of beneficts to charity.
