@@ -1,4 +1,4 @@
-# <img src='https://setbrain.fr/logo-site-setbrain.e03ea9f2.png' alt='SetBrain logo' width='25px'> SET BRAIN
+# <img src='https://avatars.githubusercontent.com/u/83130529?s=200&v=4' alt='SetBrain logo' width='25px'> SET BRAIN
 
 **Creation:** 9 January 2021  
 **Owners:** CHAUVITEAU Syd and LINGUET Emmanuel  
